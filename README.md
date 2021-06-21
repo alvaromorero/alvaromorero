@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying a degree in computer engineering at the University of Cadiz.
+- 🌱 I’m currently learning all about the world of programming and technologies.
+- 🤔 I’m looking for help with my projects to study some subjects that aren't easy to pass.
+- ⚡ Fun fact: I love playing videogames with my friends and my girlfriend.
